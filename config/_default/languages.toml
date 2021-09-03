@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "English"
+title = "Cheshta Foundation"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Organisation"
+footer_menu_middle = "Services"
+footer_menu_right = "Support"
+footer_content = "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
+# copyright
+copyright = "© 2010-2021 Cheshta Foundation. All rights reserved. | Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+
+
+
+############################# Deutsch ############################
+[hi]
+languageName = "हिंदी"
+title = "चेष्टा फाउंडेशन"
+contentDir = "content/hindi" # content/german
+weight = 2
+########### footer content ##########
+footer_menu_left = "संगठन"
+footer_menu_middle = "सेवाएं"
+footer_menu_right = "सहायता"
+footer_content = "चेष्टा फाउंडेशन एक चैरिटेबल ट्रस्ट एंड ट्रेनिंग सेंटर है जो विकलांगता प्रबंधन और पुनर्वास के क्षेत्र में काम कर रहा है"
+# copyright
+copyright = "© 2010-2021 Cheshta Foundation. All rights reserved. | Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"

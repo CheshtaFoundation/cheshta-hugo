@@ -1,0 +1,57 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+#
+#[[main]]
+#name = "Services"
+#url = "services"
+#weight = 2
+#
+#[[main]]
+#name = "Gallery"
+#url = "gallery"
+#weight = 3
+#
+#[[main]]
+#name = "FAQ"
+#url = "faq"
+#weight = 4
+#
+#[[main]]
+#name = "News"
+#url = "news"
+#weight = 5
+#
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 6
+#
+# footer menu left
+#[[footer_left]]
+#name = "About Us"
+#url = "#"
+#
+#[[footer_left]]
+#name = "Objectives"
+#url = "#"
+#
+# footer menu middle
+#[[footer_middle]]
+#name = "Services"
+#url = "services"
+#
+#[[footer_middle]]
+#name = "Infrastructure"
+#url = "#"
+#
+# footer menu right
+#[[footer_right]]
+#name = "FAQ"
+#url = "faq"
+#
+#[[footer_right]]
+#name = "Contact Us"
+#url = "contact"

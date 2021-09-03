@@ -1,0 +1,24 @@
+[readmore]
+other = "आगे पढ़ें"
+
+[translations]
+other="अनुवाद"
+
+[error404]
+other = "क्षमा करें, यह पृष्ठ उपलब्ध नही है."
+
+[yourname]
+other = "आपका नाम"
+
+[youremail]
+other = "आपका ई-मेल"
+
+[subject]
+other = "विषय"
+
+[yourmessage]
+other = "संदेश"
+
+[sendnow]
+other = "भेजें"
+
