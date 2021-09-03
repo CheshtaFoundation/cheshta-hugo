@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://cheshta.org.in/"
+baseURL = "https://www.cheshta.org.in/"
 title = "Cheshta Foundation"
 theme = "bigspring"
 # post pagination
