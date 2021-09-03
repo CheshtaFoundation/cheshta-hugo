@@ -1,15 +1,15 @@
 ---
-title: "Kontakt"
+title: "संपर्क करें"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "संपर्क जानकारी"
 draft: false
 ---
 
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### हमसे संपर्क करें!
+प्रशिक्षण केंद्र सोमवार से शनिवार तक सुबह 10:00 बजे से शाम 5:00 बजे के बीच संचालित होता है।
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **फोन: +91 532 2256 058**
+* **ई-मेल: info@cheshta.org.in**
+* **पता: 16/9/2 पन्नालाल रोड, प्रयागराज - 211002**

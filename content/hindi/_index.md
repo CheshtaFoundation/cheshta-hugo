@@ -1,49 +1,63 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
-  image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  title : "![image](images/logo.png)<br>जागरूकता प्रसार एवं प्रशिक्षण"
+  image : "images/slider-1.jpg"
+  content : "चेष्टा फाउंडेशन एक चैरिटेबल ट्रस्ट व ट्रेनिंग सेंटर है जो विकलांगता प्रबंधन और पुनर्वास के क्षेत्र में कार्यरत है"
   button:
-    enable : true
+    enable : false
     label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "सेवाएं"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "फीज़ियोथेरपी"
+      icon : "fas fa-medkit"
+      content : ""
+
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "स्पीच थेरपी"
+      icon : "fas fa-comments"
+      content : ""
+
     # feature item loop
-    - name : "24h Service"
+    - name : "ऑक्युपेशनल थेरपीय"
+      icon : "fas fa-cogs"
+      content : ""
+
+    # feature item loop
+    - name : "दैनिक जीवन की गतिविधिया"
+      icon : "fas fa-shopping-bag"
+      content : ""
+
+    # feature item loop
+    - name : "व्यावसायिक प्रशिक्षण"
+      icon : "fas fa-wrench"
+      content : ""
+
+    # feature item loop
+    - name : "मार्गदर्शन और परामर्श"
+      icon : "fas fa-university"
+      content : ""
+
+    # feature item loop
+    - name : "प्रशिक्षण आवश्यकताओं का आकलन"
+      icon : "fas fa-street-view"
+      content : ""
+
+     # feature item loop
+    - name : "प्रारंभिक हस्तक्षेप कार्यक्रम"
+      icon : "fas fa-child"
+      content : ""
+
+    # feature item loop
+    - name : "व्यक्तिगत विशेष शिक्षा कार्यक्रम"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+      content : ""
 
 
 ######################### Service #####################
@@ -51,61 +65,97 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "हमारा परिचय"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "चेष्टा फाउंडेशन एक चैरिटेबल ट्रस्ट एवं ट्रेनिंग सेंटर है जो विकलांगता प्रबंधन और सीपी (सेरेब्रल पाल्सी) और एमआर (मानसिक मंदता) से पीड़ित व्यक्तियों के पुनर्वास के क्षेत्र में काम कर रहा है, जिसका प्राथमिक उद्देश्य प्रशिक्षण और जागरूकता पैदा करना है। प्रशिक्षण केंद्र शुरू में अगस्त 2010 में एक गैर सरकारी संगठन 'चेष्टा' के रूप में स्थापित किया गया था। कुछ वर्षों की गतिविधियों के बाद जनवरी 2015 में इलाहाबाद, उत्तर प्रदेश (भारत) में ट्रस्ट को 'चेष्टा फाउंडेशन' के रूप में पंजीकृत किया गया था।"
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
+# service item loop
+    - title : "उद्देश्य"
+      images:
+      - ""
+      content : "केंद्र का मूल उद्देश्य शारीरिक और मानसिक रूप से विकलांग बच्चों को प्रशिक्षण प्रदान करना और समाज में इस तरह के कष्टों के अस्तित्व और प्रभावित लोगों के सामने आने वाले मुद्दों के विषय में जागरूकता पैदा करना है। हमारा उद्देश्य उन उपायों के बारे में जागरूकता फैलाना भी है जो परिस्थितियों को नियंत्रित करने के लिए किए जा सकते हैं।"
+      button:
+        enable : false
+        label : "अधिक जानकारी"
+        link : "#"
+
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "सुविधाएं"
       images:
-      - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "ट्रस्ट इलाहाबाद शहर में एक सुलभ स्थान पर स्थापित किया गया है, जिसमें पूरे परिसर में प्रशिक्षुओं के मुक्त आवागमन की सुविधा के लिए सभी खंड बाधा मुक्त हैं। केंद्र में
+
+        * चार विशेष शिक्षा प्रशिक्षण प्रकोष्ठ
+
+
+        * एक पूरी तरह सुसज्जित भौतिक चिकित्सा प्रशिक्षण कक्ष
+
+
+        * एक भाषण चिकित्सा प्रशिक्षण कक्ष
+
+
+        * एक व्यावसायिक चिकित्सा प्रशिक्षण हॉल।
+
+
+        * एक हजार वर्ग फुट से अधिक का एक समूह गतिविधि हॉल जिसमें 115 सेमी एलईडी पैनल सहित दृश्य-श्रव्य प्रशिक्षण उपकरण शामिल हैं।
+
+
+        * संगीत, नृत्य, कला और शिल्प आदि में प्रशिक्षुओं के कौशल/क्षमताओं के विकास के लिए सुविधाएं
+
+
+        * कंप्यूटर के उपयोग पर व्यावसायिक प्रशिक्षण की सुविधा उपलब्ध है।
+      "
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "सहयोग"
       images:
-      - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "
+        * __एक स्वयंसेवक के रूप में:__ केंद्र दिन-प्रतिदिन की प्रशिक्षण गतिविधियों को मजबूत करने के लिए पेशेवर क्षेत्र में स्वयंसेवकों के रूप में अपने कार्य बल के साथ जुड़ने के लिए उपयुक्त योग्य / अनुभवी व्यक्तियों का स्वागत करता है।
+
+
+        * __एक सहायक के रूप में:__ जागरूकता सृजन और समुदाय/केंद्र आधारित पुनर्वास कार्यक्रमों से संबंधित केंद्र की गतिविधियों में सहायता करना
+
+
+        * विशेष आवश्यकता वाले बच्चों के लिए परिवहन सहायता का प्रावधान।
+
+
+        * विशेष आवश्यकता वाले बच्चों के लिए पूंजी गहन उपकरणों का प्रावधान।
+
+
+        * विशेष आवश्यकता वाले बच्चों के प्रबंधन की नवीनतम तकनीकों सहित उन्नत पाठ्य और श्रव्य-दृश्य प्रशिक्षण सामग्री का प्रावधान।
+
+
+        * केंद्र की प्रशिक्षण गतिविधियों के प्रगतिशील सुधार के लिए वित्तीय सहायता का प्रावधान
+    "
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
-    # service item loop
-    - title : "A company standing different from others"
-      images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
-        
+
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
-  
+
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "क्या आपके मन मे कोइ प्रश्न है?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "यदि आपके पास हमारे लिये कोई प्रश्न है या आप हमारे संगठन के बारे में अधिक जानना चाहते हैं या आप स्वैच्छिक रुप से श्रमदान करना चाहते हैं, तो कृपया हमसे बेझिझक संपर्क करें अथवा हमारे केंद्र पर पधारें"
   button:
     enable : true
     label : "Contact Us"

@@ -2,14 +2,14 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Contact information"
 draft: false
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### You can reach us at!
+The training center operates from Monday to Saturday between 10:00 AM and 5:00 PM.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +91 532 2256 058**
+* **Mail: info@cheshta.org.in**
+* **Address: 16/9/2 Pannalal Road, Prayagraj - 211002**

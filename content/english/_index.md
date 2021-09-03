@@ -1,49 +1,64 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
-  image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  title : "![image](images/logo.png)<br>Awareness Creation & Training"
+  image : "images/slider-1.jpg"
+  content : "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
   button:
-    enable : true
+    enable : false
     label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Services"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "Physiotherapy"
+      icon : "fas fa-medkit"
+      content : ""
+
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "Speech Therapy"
+      icon : "fas fa-comments"
+      content : ""
+
     # feature item loop
-    - name : "24h Service"
+    - name : "Occupational Therapy"
+      icon : "fas fa-cogs"
+      content : ""
+
+    # feature item loop
+    - name : "Activities of Daily Living"
+      icon : "fas fa-shopping-bag"
+      content : ""
+
+    # feature item loop
+    - name : "Vocational Training"
+      icon : "fas fa-wrench"
+      content : ""
+
+    # feature item loop
+    - name : "Guidance & Counselling"
+      icon : "fas fa-university"
+      content : ""
+
+    # feature item loop
+    - name : "Assessment of training needs"
+      icon : "fas fa-street-view"
+      content : ""
+
+     # feature item loop
+    - name : "Early intervention Programme"
+      icon : "fas fa-child"
+      content : ""
+
+    # feature item loop
+    - name : "Individualised Special Education Programme"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+      content : ""
+
 
 
 ######################### Service #####################
@@ -51,61 +66,87 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "About Us"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation of persons afflicted with CP(Cerebral Palsy) and M.R.(Mental Retardation) with a primary objective of training and awareness creation. The Training Centre was initially established as an NGO “Cheshta” in August 2010 . After a few years of activities the Trust was registered as “Cheshta Foundation”in January 2015 at Allahabad, Uttar Pradesh (India)."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Objectives"
       images:
-      - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      -
+      content : "The basic objective of the center is to provide training to physically and mentally challenged children and to create awareness about the existence of such aflictions in the society and the issues faced by the affected people. We also aim to spread awareness about the measures that can be taken to control the degree of affliction"
       button:
         enable : true
         label : "Check it out"
         link : "#"
-        
+
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Infrastructure"
       images:
-      - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "The Trust is established in a easily accessible location in Allahabad city wherein all the sections are barrier free to facilitate free movement of trainees in the entire premises.
+      The centre is equipped with
+
+      * Four special education training cells
+
+      * A fully equipped physiotherapy training room
+
+      * A Speech Therapy training room
+
+      * An occupational therapy training hall.
+
+      * A group activity hall of more than one thousand sq. Ft with audio- visual training equipment inclusive of a 115 cms LED Panel.
+
+      * Facilities for developing the skills / abilities of trainees in music, dance, art & craft etc
+
+      * Facility for Vocational training on use of Computers.
+      "
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Contribute"
       images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - ""
+      content : "
+    * AS A VOLUNTEER: The centre welcomes suitably qualified/experienced individuals to get associated with its work force as volunteers in the professional field to strengthen the day to day training activities
+
+    * AS A SUPPORT PERSONNEL: Aid the centre’s activities related to awareness creation and Community/Centre based rehabilitation programmes
+
+    * Provision of transport support for Children with Special Needs.
+
+    * Provision of capital intensive equipment & devices for Children with Special Needs.
+
+    * Provision of advanced text & audo- visual training materials inclusive of latest techniques of managment of Children with Special Needs.
+
+    * Provision of financial assistance for progressive improvement of centre’s training activities
+    "
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
-  
+
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Have a question for us?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "If you have a query or you wish to know more about our organisation or you wish to volunteer, Please feel free to contact us or visit us"
   button:
     enable : true
     label : "Contact Us"
