@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "![image](images/logo.png)<br>Awareness Creation & Training"
+  title : "Awareness Creation & Training"
   image : "images/slider-1.jpg"
   content : "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
   button:
