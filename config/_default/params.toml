@@ -30,10 +30,15 @@ button = "I Accept"
 [[social]]
 title = "Whatsapp"
 icon = "fab fa-whatsapp" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://wa.me/919455529265"
 
 [[social]]
 title = "Telegram"
 icon = "fab fa-telegram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://t.me/cheshtafoundation"
+
+[[social]]
+title = "Email"
+icon = "fa fa-envelope" # themify icon : https://themify.me/themify-icons
+link = "mailto:info@cheshta.org.in"
 
