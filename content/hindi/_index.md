@@ -18,46 +18,55 @@ feature:
     - name : "फीज़ियोथेरपी"
       icon : "fas fa-medkit"
       content : ""
+      link: "services#physio"
 
     # feature item loop
     - name : "स्पीच थेरपी"
       icon : "fas fa-comments"
       content : ""
+      link: "services#speech"
 
     # feature item loop
-    - name : "ऑक्युपेशनल थेरपीय"
+    - name : "ऑक्युपेशनल थेरपी"
       icon : "fas fa-cogs"
       content : ""
+      link: "services#ot"
 
     # feature item loop
     - name : "दैनिक जीवन की गतिविधिया"
       icon : "fas fa-shopping-bag"
       content : ""
+      link: "services#adl"
 
     # feature item loop
     - name : "व्यावसायिक प्रशिक्षण"
       icon : "fas fa-wrench"
       content : ""
+      link: "services#vt"
 
     # feature item loop
     - name : "मार्गदर्शन और परामर्श"
       icon : "fas fa-university"
       content : ""
+      link: "services#guide"
 
     # feature item loop
     - name : "प्रशिक्षण आवश्यकताओं का आकलन"
       icon : "fas fa-street-view"
       content : ""
+      link: "services#atn"
 
      # feature item loop
     - name : "प्रारंभिक हस्तक्षेप कार्यक्रम"
       icon : "fas fa-child"
       content : ""
+      link: "services#eip"
 
     # feature item loop
     - name : "व्यक्तिगत विशेष शिक्षा कार्यक्रम"
       icon : "fas fa-user-clock"
       content : ""
+      link: "services#spl"
 
 
 ######################### Service #####################
@@ -80,9 +89,9 @@ service:
       - ""
       content : "केंद्र का मूल उद्देश्य शारीरिक और मानसिक रूप से विकलांग बच्चों को प्रशिक्षण प्रदान करना और समाज में इस तरह के कष्टों के अस्तित्व और प्रभावित लोगों के सामने आने वाले मुद्दों के विषय में जागरूकता पैदा करना है। हमारा उद्देश्य उन उपायों के बारे में जागरूकता फैलाना भी है जो परिस्थितियों को नियंत्रित करने के लिए किए जा सकते हैं।"
       button:
-        enable : false
+        enable : true
         label : "अधिक जानकारी"
-        link : "#"
+        link : "objectives"
 
     # service item loop
     - title : "सुविधाएं"
@@ -118,7 +127,7 @@ service:
     # service item loop
     - title : "सहयोग"
       images:
-      - ""
+      - "images/cta.svg"
       content : "
         * __एक स्वयंसेवक के रूप में:__ केंद्र दिन-प्रतिदिन की प्रशिक्षण गतिविधियों को मजबूत करने के लिए पेशेवर क्षेत्र में स्वयंसेवकों के रूप में अपने कार्य बल के साथ जुड़ने के लिए उपयुक्त योग्य / अनुभवी व्यक्तियों का स्वागत करता है।
 
@@ -154,7 +163,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "क्या आपके मन में कोई प्रश्न है?"
-  image : "images/cta.svg"
+  image : "images/contact.svg"
   content : "यदि आपके पास हमारे लिये कोई प्रश्न है या आप हमारे संगठन के बारे में अधिक जानना चाहते हैं या आप स्वैच्छिक रुप से श्रमदान करना चाहते हैं, तो कृपया हमसे बेझिझक संपर्क करें अथवा हमारे केंद्र पर पधारें"
   button:
     enable : true

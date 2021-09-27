@@ -18,46 +18,55 @@ feature:
     - name : "Physiotherapy"
       icon : "fas fa-medkit"
       content : ""
+      link: "services#physio"
 
     # feature item loop
     - name : "Speech Therapy"
       icon : "fas fa-comments"
       content : ""
+      link: "services#speech"
 
     # feature item loop
     - name : "Occupational Therapy"
       icon : "fas fa-cogs"
       content : ""
+      link: "services#ot"
 
     # feature item loop
     - name : "Activities of Daily Living"
       icon : "fas fa-shopping-bag"
       content : ""
+      link: "services#adl"
 
     # feature item loop
     - name : "Vocational Training"
       icon : "fas fa-wrench"
       content : ""
+      link: "services#vt"
 
     # feature item loop
     - name : "Guidance & Counselling"
       icon : "fas fa-university"
       content : ""
+      link: "services#guide"
 
     # feature item loop
     - name : "Assessment of training needs"
       icon : "fas fa-street-view"
       content : ""
+      link: "services#atn"
 
      # feature item loop
     - name : "Early intervention Programme"
       icon : "fas fa-child"
       content : ""
+      link: "services#eip"
 
     # feature item loop
     - name : "Individualised Special Education Programme"
       icon : "fas fa-user-clock"
       content : ""
+      link: "services#spl"
 
 
 
@@ -83,7 +92,7 @@ service:
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "objectives"
 
     # service item loop
     - title : "Infrastructure"
@@ -114,11 +123,11 @@ service:
     # service item loop
     - title : "Contribute"
       images:
-      - ""
+      - "images/cta.svg"
       content : "
-    * AS A VOLUNTEER: The centre welcomes suitably qualified/experienced individuals to get associated with its work force as volunteers in the professional field to strengthen the day to day training activities
+    * **AS A VOLUNTEER**: The centre welcomes suitably qualified/experienced individuals to get associated with its work force as volunteers in the professional field to strengthen the day to day training activities
 
-    * AS A SUPPORT PERSONNEL: Aid the centre’s activities related to awareness creation and Community/Centre based rehabilitation programmes
+    * **AS A SUPPORT PERSONNEL**: Aid the centre’s activities related to awareness creation and Community/Centre based rehabilitation programmes
 
     * Provision of transport support for Children with Special Needs.
 
@@ -145,7 +154,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Have a question for us?"
-  image : "images/cta.svg"
+  image : "images/contact.svg"
   content : "If you have a query or you wish to know more about our organisation or you wish to volunteer, Please feel free to contact us or visit us"
   button:
     enable : true
