@@ -4,10 +4,15 @@ name = "Home"
 url = "/"
 weight = 1
 #
-#[[main]]
-#name = "Services"
-#url = "services"
-#weight = 2
+[[main]]
+name = "Services"
+url = "services"
+weight = 2
+#
+[[main]]
+name = "Objectives"
+url = "objectives"
+weight = 3
 #
 #[[main]]
 #name = "Gallery"
