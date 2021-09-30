@@ -15,10 +15,10 @@ name = "उद्देश्य"
 url = "objectives"
 weight = 3
 #
-#[[main]]
-#name = "प्रदर्शनी"
-#url = "gallery"
-#weight = 3
+[[main]]
+name = "प्रदर्शनी"
+url = "gallery"
+weight = 4
 #
 #[[main]]
 #name = "प्रश्न-उत्तर"

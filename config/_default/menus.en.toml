@@ -14,10 +14,10 @@ name = "Objectives"
 url = "objectives"
 weight = 3
 #
-#[[main]]
-#name = "Gallery"
-#url = "gallery"
-#weight = 3
+[[main]]
+name = "Gallery"
+url = "gallery"
+weight = 4
 #
 #[[main]]
 #name = "FAQ"
