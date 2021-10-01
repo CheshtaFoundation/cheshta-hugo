@@ -2,23 +2,23 @@
 [en]
 languageName = "English"
 title = "Cheshta Foundation"
-contentDir = "content/english" # content/english
+contentDir = "content/english"
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Organisation"
 footer_menu_middle = "Services"
 footer_menu_right = "Support"
-footer_content = "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
+footer_content = "Cheshta Foundation is a Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
 # copyright
 copyright = "© 2010-2021 Cheshta Foundation. All rights reserved. | Design by Themefisher Developed by Gethugothemes"
 
 
 
-############################# Deutsch ############################
+############################# Hindi ############################
 [hi]
 languageName = "हिंदी"
 title = "चेष्टा फाउंडेशन"
-contentDir = "content/hindi" # content/german
+contentDir = "content/hindi"
 weight = 2
 ########### footer content ##########
 footer_menu_left = "संगठन"

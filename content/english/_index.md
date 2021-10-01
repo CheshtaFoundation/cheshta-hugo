@@ -3,7 +3,7 @@
 banner:
   title : "Awareness Creation & Training"
   image : "images/slider-1.jpg"
-  content : "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
+  content : "Cheshta Foundation is a Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
   button:
     enable : false
     label : "Contact Us"
