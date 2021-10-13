@@ -33,7 +33,7 @@ service:
       content : ""
 
     # service item loop
-    - title : "दिवाली मेला व प्रतिभा प्रदर्शनी"
+    - title : "दीवाली मेला व प्रतिभा प्रदर्शनी"
       images:
       - "images/gallery/201516/diwali01.webp"
       - "images/gallery/201516/diwali02.webp"
@@ -55,7 +55,7 @@ service:
       content : ""
 
     # service item loop
-    - title : "क्रिसमस समारोह"
+    - title : "क्रिस्मस समारोह"
       images:
       - "images/gallery/201516/chr01.webp"
       - "images/gallery/201516/chr02.webp"
@@ -84,4 +84,4 @@ service:
       content : ""
 ---
 
-शैक्षणिक वर्ष 2015-16 के केंद्र में होने वाले कुछ कार्यक्रमों और समारोहों का एक झलकी ।
+शैक्षिक वर्ष 2015-16 के केंद्र में होने वाले कुछ कार्यक्रमों और समारोहों का एक झलक ।

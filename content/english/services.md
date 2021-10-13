@@ -49,7 +49,7 @@ service:
       -
       content : "These activities are the basic tasks of everyday life, and they include tasks such as eating, bathing, clothing, and toileting.  For children with special needs, these tasks might be more difficult and might require constant training for completing the activities of daily living. The basic / fundamental ADL activities consist of :
 
-      * Toilet training(urinating/ defacating
+      * Toilet training(urinating/ defecating)
 
       * Personal care( Brushing/ bathing & showering/ dressing/ combing )
 
@@ -70,7 +70,7 @@ service:
 
       * Art & Craft Making of paintings,decorative bags, envelopes, cards, table mats, coasters, door mats, show pieces etc.
 
-      * Grinding spices & pulses etc and packaging them in markatable bags
+      * Grinding spices & pulses etc and packaging them in marketable bags
 
       * Paper work including tracing ,drawing, cutting, folding, sticking and decorating items
 
@@ -133,7 +133,7 @@ service:
       id: "spl"
       images:
       -
-      content : "The fundamental purpose of special education relates to optimal development of the CWSN as a skillful, free & purposeful person, able to plan & manage his/ her own life to reach their best potential."
+      content : "The fundamental purpose of special education relates to optimal development of the CWSN as a skilful, free & purposeful person, able to plan & manage his/ her own life to reach their best potential."
       button:
         enable : false
         label : "Check it out"

@@ -27,7 +27,7 @@ service:
 
         6. Training of Group behaviour & Group activity for CWSN
 
-        7. Identification and development of pre4vocational skills
+        7. Identification and development of pre-vocational skills
 
         8. Conventional & non conventional Vocational skills including the use of computers
 

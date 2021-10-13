@@ -89,7 +89,7 @@ service:
     - title : "Objectives"
       images:
       -
-      content : "The basic objective of the center is to provide training to physically and mentally challenged children and to create awareness about the existence of such aflictions in the society and the issues faced by the affected people. We also aim to spread awareness about the measures that can be taken to control the degree of affliction"
+      content : "The basic objective of the centre is to provide training to physically and mentally challenged children and to create awareness about the existence of such afflictions in the society and the issues faced by the affected people. We also aim to spread awareness about the measures that can be taken to control the degree of affliction"
       button:
         enable : true
         label : "Read more"
@@ -100,7 +100,7 @@ service:
       id: "infra"
       images:
       - ""
-      content : "The Trust is established in a easily accessible location in Allahabad city wherein all the sections are barrier free to facilitate free movement of trainees in the entire premises.
+      content : "The Trust is established in a easily accessible location in Prayagraj city wherein all the sections are barrier free to facilitate free movement of trainees in the entire premises.
       The centre is equipped with
 
       * Four special education training cells
@@ -113,7 +113,7 @@ service:
 
       * A group activity hall of more than one thousand sq. Ft with audio- visual training equipment inclusive of a 115 cms LED Panel.
 
-      * Facilities for developing the skills / abilities of trainees in music, dance, art & craft etc
+      * Facilities for developing the skills / abilities of trainees in music, dance, art & craft etc.
 
       * Facility for Vocational training on use of Computers.
       "
@@ -135,7 +135,7 @@ service:
 
     * Provision of capital intensive equipment & devices for Children with Special Needs.
 
-    * Provision of advanced text & audo- visual training materials inclusive of latest techniques of managment of Children with Special Needs.
+    * Provision of advanced text & audio-visual training materials inclusive of latest techniques of management of Children with Special Needs.
 
     * Provision of financial assistance for progressive improvement of centre’s training activities
     "
