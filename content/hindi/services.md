@@ -21,7 +21,7 @@ service:
         link : "#"
 
     # service item loop
-    - title : "स्पीच थेरपी"
+    - title : "स्पीच थेरेपी"
       id: "speech"
       images:
       -
@@ -32,7 +32,7 @@ service:
         link : "#"
 
     # service item loop
-    - title : "ऑक्युपेशनल थेरपी"
+    - title : "ऑक्युपेशनल थेरेपी"
       id: "ot"
       images:
       -
