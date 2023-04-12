@@ -12,7 +12,7 @@ service:
     # service item loop
     - title : "Objectives of Training"
       images:
-      - ""
+      - "images/training01.webp"
       content : "The centre aims to provide training to the physically & mentally challenged children and/ or their caregivers in –
 
         1. Management of physical challenge of CWSN (Children with special Needs)
@@ -44,7 +44,7 @@ service:
     # service item loop
     - title : "Objectives of Awareness Creation"
       images:
-      -
+      - "images/awareness01.webp"
       content : "Creation of awareness and sensitizing the people about
 
         1. the existence of physical & mental deficiencies in different age group of the society

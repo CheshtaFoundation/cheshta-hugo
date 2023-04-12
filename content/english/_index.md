@@ -78,7 +78,7 @@ service:
     - title : "About Us"
       id: "about"
       images:
-      - ""
+      - "images/premises.webp"
       content : "Cheshta Foundation is an Charitable Trust & Training Centre working in the field of disability management and rehabilitation of persons afflicted with CP(Cerebral Palsy) and MR(Mental Retardation) with a primary objective of training and awareness creation. The Training Centre was initially established as an NGO “Cheshta” in August 2010 . After a few years of activities the Trust was registered as “Cheshta Foundation”in January 2015 at Allahabad, Uttar Pradesh (India)."
       button:
         enable : false
@@ -88,7 +88,7 @@ service:
     # service item loop
     - title : "Objectives"
       images:
-      -
+      - "images/objectives02.webp"
       content : "The basic objective of the centre is to provide training to physically and mentally challenged children and to create awareness about the existence of such afflictions in the society and the issues faced by the affected people. We also aim to spread awareness about the measures that can be taken to control the degree of affliction"
       button:
         enable : true

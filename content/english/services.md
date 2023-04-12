@@ -13,7 +13,7 @@ service:
     - title : "Physiotherapy"
       id: "physio"
       images:
-      - ""
+      - "images/physio01.webp"
       content : "Physiotherapy addresses the child’s general strength and abilities in the areas of gross & fine motor skills and mobility. Physiotherapy aims to instils basic skills like learning to sit, crawl, walk, climb steps, & throwing or catching objects . Activities include exercises for optimising muscle tone, increasing range of motion and improving balance, coordination and endurance."
       button:
         enable : false
@@ -24,7 +24,7 @@ service:
     - title : "Speech Therapy"
       id: "speech"
       images:
-      -
+      - "images/speech01.webp"
       content : "It aims at improving communication skills and treat speech and language disorders. This includes receptive and expressive language, auditory processing, memory, articulation, fluency, oral-motor development and feeding skills. Structured activities are used to teach specific language concepts of vocabulary and grammar, articulation and phonological training. It may incorporate and teach alternative ways of communication which include manual sign language, picture communication boards, and/or voice output communication devices."
       button:
         enable : false
@@ -35,7 +35,7 @@ service:
     - title : "Occupational therapy"
       id: "ot"
       images:
-      -
+      - "images/occupational01.webp"
       content : "Occupational therapy (referred to as OT), especially for a child refers to all of the “jobs” that make up our daily life. It addresses how a person is affected by disability and how it affects his or her activities of daily living. It includes constraint therapy, therapeutic listening programs, sensory integrative (SI) therapy, vision related therapies (for visual motor and visual perceptual difficulties) and feeding related therapy."
       button:
         enable : false
@@ -46,7 +46,7 @@ service:
     - title : "Training of Self help skills & ADL (Activities of Daily Living) skills"
       id: "adl"
       images:
-      -
+      - "images/daily01.webp"
       content : "These activities are the basic tasks of everyday life, and they include tasks such as eating, bathing, clothing, and toileting.  For children with special needs, these tasks might be more difficult and might require constant training for completing the activities of daily living. The basic / fundamental ADL activities consist of :
 
       * Toilet training(urinating/ defecating)
@@ -65,7 +65,9 @@ service:
     - title : "Vocational training including basic computer training"
       id: "vt"
       images:
-      -
+      - "images/voc01.webp"
+      - "images/voc02.webp"
+      - "images/voc03.webp"
       content : "The objective of vocational training is to empower the PWD to find job or keep themselves occupied by forming a self help group for doing business or livelihood. The various Vocational skills are –
 
       * Art & Craft Making of paintings,decorative bags, envelopes, cards, table mats, coasters, door mats, show pieces etc.
@@ -90,7 +92,7 @@ service:
     - title : "Guidance & counselling"
       id: "guide"
       images:
-      -
+      - "images/guide01.webp"
       content : "Parents of children with developmental delays or difficulties are referred by physicians, social workers & other sources to the centre. Normally such parents are not ready to accept that their child is having developmental difficulties which needs primary assessment and appropriate corrective action. A brief on the spot analysis is done by a team of professionals to identify the broad group and the level of developmental deficiency and the parents are explained the different ways & means to take corrective measures and the possibilities and empower them to choose the best plan for their child."
       button:
         enable : false
@@ -101,7 +103,7 @@ service:
     - title : "Assessment of training needs"
       id: "atn"
       images:
-      -
+      - "images/assess01.webp"
       content : "An assessment of the training needs of a CWSN is the process used to determine the existing deficiencies & strengths by a multi disciplinary team of professional that tries to find ,if any, disability is present in the child . It consists of :
 
     * Screening & identification : to screen children and identify those who may be experiencing delays or learning problems, Physical evaluations for therapy may include looking at the child’s posture, sensory processing, muscle tone and coordination.
@@ -118,7 +120,7 @@ service:
     - title : "Early Intervention Programme"
       id: "eip"
       images:
-      -
+      - "images/early02.webp"
       content : "Early intervention relates to taking action as soon as possible to handle problems for children with developmental deficiencies and their families before they become more difficult or complicated to reverse. It also means identifying children & families which may be at risk of facing difficulties and providing timely and effective support and services.
 
 
@@ -132,7 +134,7 @@ service:
     - title : "Individualised Special Education & Training Programme"
       id: "spl"
       images:
-      -
+      - "images/individual01.webp"
       content : "The fundamental purpose of special education relates to optimal development of the CWSN as a skilful, free & purposeful person, able to plan & manage his/ her own life to reach their best potential."
       button:
         enable : false
@@ -143,7 +145,7 @@ service:
     - title : "Development of skills in other extra curricular activities"
       id: "ext"
       images:
-      -
+      - "images/extra01.webp"
       content : "This involves skill development in dance, drama, playing of instruments, indoor & outdoor sports & games, visit to interesting places & field trips to small scale or cottage industries etc."
       button:
         enable : false
