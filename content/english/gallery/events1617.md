@@ -78,4 +78,4 @@ service:
 
 ---
 
-A showcase of a few events and celebrations at the centre for the academic year 2015-16.
+A showcase of a few events and celebrations at the centre for the academic year 2016-17.
