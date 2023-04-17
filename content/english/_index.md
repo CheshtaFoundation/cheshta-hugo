@@ -99,7 +99,18 @@ service:
     - title : "Infrastructure"
       id: "infra"
       images:
-      - ""
+      - "images/infra01.webp"
+      - "images/infra02.webp"
+      - "images/infra03.webp"
+      - "images/infra04.webp"
+      - "images/infra05.webp"
+      - "images/infra06.webp"
+      - "images/infra07.webp"
+      - "images/infra08.webp"
+      - "images/infra09.webp"
+      - "images/infra10.webp"
+      - "images/infra11.webp"
+      - "images/infra12.webp"
       content : "The Trust is established in a easily accessible location in Prayagraj city wherein all the sections are barrier free to facilitate free movement of trainees in the entire premises.
       The centre is equipped with
 

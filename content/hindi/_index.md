@@ -98,7 +98,18 @@ service:
     - title : "सुविधाएँ"
       id: "infra"
       images:
-      - ""
+      - "images/infra01.webp"
+      - "images/infra02.webp"
+      - "images/infra03.webp"
+      - "images/infra04.webp"
+      - "images/infra05.webp"
+      - "images/infra06.webp"
+      - "images/infra07.webp"
+      - "images/infra08.webp"
+      - "images/infra09.webp"
+      - "images/infra10.webp"
+      - "images/infra11.webp"
+      - "images/infra12.webp"
       content : "ट्रस्ट प्रयागराज शहर में एक सुलभ स्थान पर स्थापित किया गया है, जिसमें पूरे परिसर में प्रशिक्षुओं के मुक्त आवागमन की सुविधा के लिए सभी खंड बाधा मुक्त हैं। केंद्र में
 
         * चार विशेष शिक्षा प्रशिक्षण प्रकोष्ठ
