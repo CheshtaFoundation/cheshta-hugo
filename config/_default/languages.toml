@@ -1,29 +1,32 @@
+
 ############################# English ############################
 [en]
-languageName = "English"
-title = "Cheshta Foundation"
-contentDir = "content/english"
-weight = 1
-########### footer content ##########
-footer_menu_left = "Organisation"
-footer_menu_middle = "Services"
-footer_menu_right = "Support"
-footer_content = "Cheshta Foundation is a Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
-# copyright
-copyright = "© 2010-2023 Cheshta Foundation. All rights reserved. | Design by Themefisher Developed by Gethugothemes"
+  languageName = "English"
+  contentDir = "content/english"
+  weight = 1
+  [en.params]
+    title = "Cheshta Foundation"
+    ########### footer content ##########
+    footer_menu_left = "Organisation"
+    footer_menu_middle = "Services"
+    footer_menu_right = "Support"
+    footer_content = "Cheshta Foundation is a Charitable Trust & Training Centre working in the field of disability management and rehabilitation"
+    # copyright
+    copyright = "© 2010-2025 Cheshta Foundation. All rights reserved."
 
 
 
 ############################# Hindi ############################
 [hi]
-languageName = "हिंदी"
-title = "चेष्टा फाउंडेशन"
-contentDir = "content/hindi"
-weight = 2
-########### footer content ##########
-footer_menu_left = "संगठन"
-footer_menu_middle = "सेवाएं"
-footer_menu_right = "सहायता"
-footer_content = "चेष्टा फाउंडेशन एक चैरिटेबल ट्रस्ट एंड ट्रेनिंग सेंटर है जो विकलांगता प्रबंधन और पुनर्वास के क्षेत्र में काम कर रहा है"
-# copyright
-copyright = "© 2010-2023 Cheshta Foundation. All rights reserved. | Design by Themefisher Developed by Gethugothemes"
+  languageName = "हिंदी"
+  contentDir = "content/hindi"
+  weight = 2
+  [hi.params]
+    title = "चेष्टा फाउंडेशन"
+    ########### footer content ##########
+    footer_menu_left = "संगठन"
+    footer_menu_middle = "सेवाएं"
+    footer_menu_right = "सहायता"
+    footer_content = "चेष्टा फाउंडेशन एक चैरिटेबल ट्रस्ट एंड ट्रेनिंग सेंटर है जो विकलांगता प्रबंधन और पुनर्वास के क्षेत्र में काम कर रहा है"
+    # copyright
+    copyright = "© 2010-2025 चेष्टा फाउंडेशन. सभी अधिकार सुरक्षित"
